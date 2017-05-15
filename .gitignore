@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.blogsite
+/static
+.DS_Store
